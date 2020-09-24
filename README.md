@@ -7,8 +7,8 @@
 </head>
 <style>
 	body{
-		background-color: powderblue;
-		font-size: 500%;
+	background-color: powderblue;
+	font-size: 500%;
 	}
 h1{
 font-size:300%;
