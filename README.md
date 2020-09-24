@@ -7,20 +7,20 @@
 </head>
 <style>
 	body{
-		background-color: green;
+		background-color: powderblue;
 		font-size: 500%;
 	}
 h1{
-	font-size:300%;
-	}
+font-size:300%;
+}
 </style>
 <body>
 	<h1>hello this is irsad husain</h1>
 	<img src="https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png">
-	<style>p  {
+	<style> p {
   color: red;
   font-family: courier;
-  font-size: 3000%;
+  font-size: 300%;
 }
 		</style>
 		<p>Hello everyone this is irsad husain a youngester from india. </p>
