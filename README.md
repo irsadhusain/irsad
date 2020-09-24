@@ -10,6 +10,9 @@
 		background-color: green;
 		font-size: 500%;
 	}
+h1{
+	font-size:300%;
+	}
 </style>
 <body>
 	<h1>hello this is irsad husain</h1>
@@ -17,7 +20,7 @@
 	<style>p  {
   color: red;
   font-family: courier;
-  font-size: 160%;
+  font-size: 3000%;
 }
 		</style>
 		<p>Hello everyone this is irsad husain a youngester from india. </p>
