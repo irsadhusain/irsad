@@ -26,7 +26,8 @@ font-size:300%;
 }
 		</style>
 		<p>i am irshad husain
-		persuing btech in electrical engineerin i am from uttarpradesh india.	
+		persuing btech in electrical engineering.
+		i am from uttar pradesh india.	
 	</p>
 	
 </body>
